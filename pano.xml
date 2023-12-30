@@ -28,6 +28,7 @@
       <hotspot id="Point03" skinid="실외기실" pan="-331.72" tilt="3.35" target="_blank" url="" description="" title=""/>
       <hotspot id="Point04" skinid="가스레인지-m" pan="-178.04" tilt="-7.78" target="_blank" url="" description="" title=""/>
       <hotspot id="Point05" skinid="인덕션-m" pan="-178.29" tilt="-13.3" target="_blank" url="" description="" title=""/>
+      <hotspot id="Point06" skinid="냉장고빌트인-m" pan="-237.19" tilt="1.99" target="_blank" url="" description="" title=""/>
       <polyhotspot id="Poly01" target="_blank" url="https://www.unfiction.kr/" description="" title="">
         <polystring>-135.31/12.87|-135.18/3.64|-148.76/2.67|-148.77/11.82</polystring>
       </polyhotspot>
