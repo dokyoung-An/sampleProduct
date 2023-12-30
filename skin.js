@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.8/20017
 // Filename: ??????.ggsk
-// Generated 2023-12-30T14:31:15
+// Generated 2023-12-30T14:34:54
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_button_1', 2, false, { ignoreInState: 0  });
@@ -13872,7 +13872,7 @@ function pano2vrSkin(player,base) {
 		}
 		me._off.logicBlock_visible();
 		me._off.onclick=function (e) {
-			player.openNext("{node19}","");
+			player.openNext("{node19}","$(cur)");
 		}
 		me._off.ggUpdatePosition=function (useTransition) {
 		}
@@ -14026,7 +14026,7 @@ function pano2vrSkin(player,base) {
 		}
 		me._on.logicBlock_visible();
 		me._on.onclick=function (e) {
-			player.openNext("{node18}","");
+			player.openNext("{node18}","$(cur)");
 		}
 		me._on.ggUpdatePosition=function (useTransition) {
 		}
@@ -22503,6 +22503,31 @@ function pano2vrSkin(player,base) {
 				}
 			}
 		}
+		me.__57.logicBlock_position = function() {
+			var newLogicStatePosition;
+			if (
+				((player.getViewerSize().width <= 440))
+			)
+			{
+				newLogicStatePosition = 0;
+			}
+			else {
+				newLogicStatePosition = -1;
+			}
+			if (me.__57.ggCurrentLogicStatePosition != newLogicStatePosition) {
+				me.__57.ggCurrentLogicStatePosition = newLogicStatePosition;
+				me.__57.style.transition='left 0s, top 0s';
+				if (me.__57.ggCurrentLogicStatePosition == 0) {
+					me.__57.style.left='-150px';
+					me.__57.style.top='0px';
+				}
+				else {
+					me.__57.style.left='0px';
+					me.__57.style.top='0px';
+				}
+			}
+		}
+		me.__57.logicBlock_position();
 		me.__57.onclick=function (e) {
 			player.triggerEvent('hsproxyclick', {'id': me.hotspot.id, 'url': me.hotspot.url});
 		}
@@ -22909,6 +22934,7 @@ function pano2vrSkin(player,base) {
 		me._bg12.appendChild(me.__1_5);
 		me._external_15.appendChild(me._bg12);
 		me.__57.appendChild(me._external_15);
+		me.__57.logicBlock_position();
 		if ((hotspot) && (hotspot.customimage)) {
 			me._external_15.style.width=hotspot.customimagewidth + 'px';
 			me._external_15.style.height=hotspot.customimageheight + 'px';
@@ -22951,6 +22977,7 @@ function pano2vrSkin(player,base) {
 				}
 			};
 			me.ggEvent_sizechanged=function() {
+				me.__57.logicBlock_position();
 				me._external_15.logicBlock_position();
 				me._external_15.logicBlock_size();
 				me._bg12.logicBlock_size();
