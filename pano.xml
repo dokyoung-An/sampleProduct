@@ -1,157 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="20017" appversion="7.0.8" start="node17">
-  <panorama id="node7">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="2000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2000" overlap="1" levelingroll="0" levelbias="0.400">
-      <level preload="0" height="2000" width="2000" predecode="0"/>
-      <level preload="0" height="1000" width="1000" predecode="0"/>
-      <level preload="1" height="500" width="500" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
-    </view>
-    <userdata nodeid="node7" description="" source="" heading="0" copyright="" tags="가구온오프|가구있음" title="거실" author="" comment="" datetime="2023. 11. 22. 오후 4:02" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-0.58" title="주방" url="{node9}" target="" pan="-17.03"/>
-      <hotspot description="" id="Point02" skinid="ht_node" tilt="-3.25" title="복도" url="{node10}" target="" pan="-53.16"/>
-    </hotspots>
-    <media/>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node9">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="2000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2000" overlap="1" levelingroll="0" levelbias="0.400">
-      <level preload="0" height="2000" width="2000" predecode="0"/>
-      <level preload="0" height="1000" width="1000" predecode="0"/>
-      <level preload="1" height="500" width="500" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
-    </view>
-    <userdata nodeid="node9" description="" source="" heading="0" copyright="" tags="가구온오프|가구있음" title="주방" author="" comment="" datetime="2023. 11. 22. 오후 4:02" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-1.92" title="거실" url="{node7}" target="" pan="-334.35"/>
-      <hotspot description="" id="Point02" skinid="ht_node" tilt="-6.06" title="복도" url="{node10}" target="" pan="-322.04"/>
-    </hotspots>
-    <media/>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node10">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="2000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2000" overlap="1" levelingroll="0" levelbias="0.400">
-      <level preload="0" height="2000" width="2000" predecode="0"/>
-      <level preload="0" height="1000" width="1000" predecode="0"/>
-      <level preload="1" height="500" width="500" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
-    </view>
-    <userdata nodeid="node10" description="" source="" heading="0" copyright="" tags="가구온오프|가구있음" title="복도" author="" comment="" datetime="2023. 11. 22. 오후 4:02" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-1.05" title="거실" url="{node7}" target="" pan="-8.99"/>
-      <hotspot description="" id="Point02" skinid="ht_node" tilt="-0.39" title="주방" url="{node9}" target="" pan="-116.95"/>
-    </hotspots>
-    <media/>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node11">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="2000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2000" overlap="1" levelingroll="0" levelbias="0.400">
-      <level preload="0" height="2000" width="2000" predecode="0"/>
-      <level preload="0" height="1000" width="1000" predecode="0"/>
-      <level preload="1" height="500" width="500" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
-    </view>
-    <userdata nodeid="node11" description="" source="" heading="0" copyright="" tags="가구없음|가구온오프" title="거실" author="" comment="" datetime="2023. 11. 22. 오후 4:02" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-0.58" title="주방" url="{node13}" target="" pan="-17.14"/>
-      <hotspot description="" id="Point02" skinid="ht_node" tilt="-3.25" title="복도" url="{node12}" target="" pan="-53.16"/>
-    </hotspots>
-    <media/>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node13">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="2000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2000" overlap="1" levelingroll="0" levelbias="0.400">
-      <level preload="0" height="2000" width="2000" predecode="0"/>
-      <level preload="0" height="1000" width="1000" predecode="0"/>
-      <level preload="1" height="500" width="500" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
-    </view>
-    <userdata nodeid="node13" description="" source="" heading="0" copyright="" tags="가구없음|가구온오프" title="주방" author="" comment="" datetime="2023. 11. 22. 오후 4:02" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-1.92" title="거실" url="{node11}" target="" pan="-334.35"/>
-      <hotspot description="" id="Point02" skinid="ht_node" tilt="-6.06" title="복도" url="{node12}" target="" pan="-322.04"/>
-    </hotspots>
-    <media/>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node12">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="2000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2000" overlap="1" levelingroll="0" levelbias="0.400">
-      <level preload="0" height="2000" width="2000" predecode="0"/>
-      <level preload="0" height="1000" width="1000" predecode="0"/>
-      <level preload="1" height="500" width="500" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
-    </view>
-    <userdata nodeid="node12" description="" source="" heading="0" copyright="" tags="가구없음|가구온오프" title="복도" author="" comment="" datetime="2023. 11. 22. 오후 4:02" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-1.05" title="거실" url="{node11}" target="" pan="-8.99"/>
-      <hotspot description="" id="Point02" skinid="ht_node" tilt="-0.39" title="주방" url="{node13}" target="" pan="-116.95"/>
-    </hotspots>
-    <media/>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
-  </panorama>
+<tour apprev="20017" appversion="7.0.8" start="node15">
   <panorama id="node15">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="3000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="3000" overlap="1" levelingroll="0" levelbias="0.400">
+    <input levelbias="0.400" height="3000" levelingpitch="0" leveltilesize="510" width="3000" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0">
       <level preload="0" height="3000" width="3000" predecode="0"/>
       <level preload="0" height="1500" width="1500" predecode="0"/>
       <level preload="0" height="750" width="750" predecode="0"/>
@@ -159,140 +9,136 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
+      <start fov="100" pan="153.261" tilt="3.59079" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360" scaletofit="1"/>
     </view>
-    <userdata nodeid="node15" description="" source="" heading="0" copyright="" tags="제품정보" title="" author="" comment="" datetime="" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-8.68" title="" url="{node14}" target="" pan="-201.07"/>
-      <hotspot description="" id="세탁기" skinid="세탁기" tilt="-16.17" customimageheight="77" target="_blank" use3D="1" pan="-180.44" distance3D="1102.5" title="" customimage="media/image.png" fov="4" customimagewidth="77" url=""/>
-      <hotspot description="" id="인덕션" skinid="인덕션" tilt="-7.45" customimageheight="77" target="_blank" use3D="1" pan="-185.15" distance3D="1102.5" title="" customimage="media/image-8.png" fov="4" customimagewidth="77" url=""/>
-      <hotspot description="" id="에어컨" skinid="에어컨" tilt="34.42" customimageheight="77" target="_blank" use3D="1" pan="-23.41" distance3D="881.795" title="" customimage="media/image-4.png" fov="5" customimagewidth="77" url=""/>
-      <hotspot description="" id="Point02" skinid="가스레인지" tilt="-8.98" customimageheight="100" target="_blank" use3D="1" pan="-179.16" distance3D="954.057" title="" customimage="media/KakaoTalk_Photo_2023-12-23-10-10-00 004.png" fov="6" customimagewidth="100" url=""/>
+    <userdata copyright="" nodeid="node15" datetime="" author="" source="" info="" tags="제품정보" latitude="" description="" customnodeid="" title="가구온오프" heading="0" comment="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" textalpha="1" wordwrap="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" borderalpha="1" enabled="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance3D="1102.5" target="_blank" customimagewidth="77" customimage="media/image.png" description="" use3D="1" title="" fov="4" id="세탁기" skinid="세탁기" pan="-180.44" tilt="-16.17" customimageheight="77" url=""/>
+      <hotspot distance3D="1102.5" target="_blank" customimagewidth="77" customimage="media/image-8.png" description="" use3D="1" title="" fov="4" id="인덕션" skinid="인덕션" pan="-185.15" tilt="-7.45" customimageheight="77" url=""/>
+      <hotspot distance3D="881.795" target="_blank" customimagewidth="77" customimage="media/image-4.png" description="" use3D="1" title="" fov="5" id="에어컨" skinid="에어컨" pan="-23.41" tilt="34.42" customimageheight="77" url=""/>
+      <hotspot id="Point02" skinid="가스레인지" pan="-179.16" tilt="-8.98" target="_blank" url="" description="" title=""/>
+      <hotspot id="수도" skinid="수도" pan="-205.13" tilt="-8.7" target="_blank" url="" description="" title=""/>
+      <hotspot id="Point01" skinid="tv" pan="-288.29" tilt="-4.7" target="_blank" url="" description="" title=""/>
     </hotspots>
     <media>
-      <image stretch="1.000" id="가스레인지" tilt="-11.710" clickmode="0" rotx="0.000" width="464" pan="173.870" roty="0.000" rotz="0.000" fov="13.490" handcursor="0" height="464" popbackmode="0" hidepinned="0">
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="0.000" height="464" width="464" fov="13.490" id="가스레인지" clickmode="0" pan="173.870" tilt="-11.710" popbackmode="0" rotx="0.000">
         <source url="media/KakaoTalk_Photo_2023-12-22-17-53-37 001.png"/>
       </image>
-    </media>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node14">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="3000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="3000" overlap="1" levelingroll="0" levelbias="0.400">
-      <level preload="0" height="3000" width="3000" predecode="0"/>
-      <level preload="0" height="1500" width="1500" predecode="0"/>
-      <level preload="0" height="750" width="750" predecode="0"/>
-      <level preload="1" height="375" width="375" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
-    </view>
-    <userdata nodeid="node14" description="" source="" heading="0" copyright="" tags="제품정보" title="" author="" comment="" datetime="" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-8.8" title="" url="{node15}" target="" pan="-187.01"/>
-      <hotspot description="" id="가스레인지" skinid="가스레인지" tilt="-17.45" customimageheight="77" target="_blank" use3D="1" pan="-336.34" distance3D="881.795" title="" customimage="media/image-19.png" fov="5" customimagewidth="77" url=""/>
-    </hotspots>
-    <media>
-      <image stretch="1.000" id="가스레인지" tilt="-22.400" clickmode="0" rotx="0.000" width="1088" pan="15.840" roty="0.000" rotz="0.000" fov="31.490" handcursor="0" height="1088" popbackmode="0" hidepinned="0">
-        <source url="media/KakaoTalk_Photo_2023-12-22-17-53-38 002.png"/>
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="0.000" height="752" width="752" fov="22.160" id="블랙수도" clickmode="0" pan="146.200" tilt="-9.170" popbackmode="0" rotx="0.000">
+        <source url="media/1.png"/>
       </image>
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="0.000" height="720" width="720" fov="21.160" id="화이트수도" clickmode="0" pan="146.300" tilt="-8.800" popbackmode="0" rotx="0.000">
+        <source url="media/ .png"/>
+      </image>
+      <video handcursor="0" ambientlevel="0.000" nodechangekeep="0" stretch="1.000" roty="0.000" level="1.000" tiltsize="10.000" clickmode="0" id="Element01" pan="-289.650" tilt="5.220" pansize="10.000" mode="3" rotx="0.000" field="90.000" loop="0" hidepinned="0" startmutedmobile="0" height="720" rotz="0.000" width="1280" fov="30.000" popbackmode="0">
+        <source url="media/KakaoTalk_Video_2023-12-29-17-10-42.mp4"/>
+      </video>
     </media>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
+    <transition zoomafteroutfov="40" delay="none" zoomspeed="2" softedge="0" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="40" zoomin="0" zoomafterinfov="140" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" lockedwheel="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" zoomcentercursor="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertcontrol="1"/>
   </panorama>
   <panorama id="node17">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="2000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2000" overlap="1" levelingroll="0" levelbias="0.400">
+    <input levelbias="0.400" height="2000" levelingpitch="0" leveltilesize="510" width="2000" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0">
       <level preload="0" height="2000" width="2000" predecode="0"/>
       <level preload="0" height="1000" width="1000" predecode="0"/>
       <level preload="1" height="500" width="500" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="126.58" tilt="-1.93278" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
+      <start fov="126.58" pan="0" tilt="-1.93278" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360" scaletofit="1"/>
     </view>
-    <userdata nodeid="node17" description="" source="" heading="0" copyright="" tags="수치선" title="" author="" comment="" datetime="" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-3.03" title="" url="{node16}" target="" pan="-246.22"/>
-      <hotspot description="" id="큰창" skinid="큰창" tilt="-0.63" customimageheight="79" target="_blank" use3D="1" pan="-68.65" distance3D="904.699" title="" customimage="media/image-12.png" fov="5" customimagewidth="79" url=""/>
-      <hotspot description="" id="창문1" skinid="창문1" tilt="0.48" customimageheight="79" target="_blank" use3D="1" pan="-11.66" distance3D="904.699" title="" customimage="media/image-13.png" fov="5" customimagewidth="79" url=""/>
-      <hotspot description="" id="창문2" skinid="창문2" tilt="-1.28" customimageheight="79" target="_blank" use3D="1" pan="-331.57" distance3D="904.699" title="" customimage="media/image-14.png" fov="5" customimagewidth="79" url=""/>
-      <hotspot description="" id="식탁" skinid="식탁1" tilt="-26.92" customimageheight="79" target="_blank" use3D="1" pan="-319.55" distance3D="904.699" title="" customimage="media/image-15.png" fov="5" customimagewidth="79" url=""/>
-      <hotspot description="" id="거실가로" skinid="거실가로" tilt="-16.1" customimageheight="79" target="_blank" use3D="1" pan="-352.26" distance3D="904.699" title="" customimage="media/image-16.png" fov="5" customimagewidth="79" url=""/>
-      <hotspot description="" id="거실세로" skinid="거실세로" tilt="-20.48" customimageheight="79" target="_blank" use3D="1" pan="-71.67" distance3D="904.699" title="" customimage="media/image-17.png" fov="5" customimagewidth="79" url=""/>
+    <userdata copyright="" nodeid="node17" datetime="" author="" source="" info="" tags="수치선" latitude="" description="" customnodeid="" title="치수선" heading="0" comment="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" textalpha="1" wordwrap="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" borderalpha="1" enabled="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="큰창" skinid="큰창" pan="-68.65" tilt="-0.63" target="_blank" url="" description="" title=""/>
+      <hotspot id="창문1" skinid="창문1" pan="-11.66" tilt="0.48" target="_blank" url="" description="" title=""/>
+      <hotspot id="창문2" skinid="창문2" pan="-331.57" tilt="-1.28" target="_blank" url="" description="" title=""/>
+      <hotspot id="식탁" skinid="식탁1" pan="-317.59" tilt="-26.23" target="_blank" url="" description="" title=""/>
+      <hotspot id="거실가로" skinid="거실가로" pan="-352.26" tilt="-16.1" target="_blank" url="" description="" title=""/>
+      <hotspot id="거실세로" skinid="거실세로" pan="-71.67" tilt="-20.48" target="_blank" url="" description="" title=""/>
     </hotspots>
     <media>
-      <image stretch="1.000" id="창문1" tilt="0.560" clickmode="0" rotx="0.000" width="608" pan="343.940" roty="0.000" rotz="0.000" fov="33.490" handcursor="0" height="1008" popbackmode="0" hidepinned="0">
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="0.000" height="1008" width="608" fov="33.490" id="창문1" clickmode="0" pan="343.940" tilt="0.560" popbackmode="0" rotx="0.000">
         <source url="media/_patch_0-2.png"/>
       </image>
-      <image stretch="1.000" id="창문2" tilt="-1.320" clickmode="0" rotx="0.000" width="560" pan="23.000" roty="0.000" rotz="0.000" fov="30.490" handcursor="0" height="784" popbackmode="0" hidepinned="0">
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="0.000" height="784" width="560" fov="30.490" id="창문2" clickmode="0" pan="23.000" tilt="-1.320" popbackmode="0" rotx="0.000">
         <source url="media/_patch_1-2.png"/>
       </image>
-      <image stretch="1.000" id="식탁1" tilt="-28.740" clickmode="0" rotx="0.000" width="992" pan="35.790" roty="0.000" rotz="27.000" fov="52.490" handcursor="0" height="896" popbackmode="0" hidepinned="0">
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="27.000" height="896" width="992" fov="52.490" id="식탁1" clickmode="0" pan="35.790" tilt="-28.740" popbackmode="0" rotx="0.000">
         <source url="media/_patch_2-2.png"/>
       </image>
-      <image stretch="1.000" id="거실가로" tilt="-20.130" clickmode="0" rotx="0.000" width="1824" pan="1.200" roty="0.000" rotz="0.000" fov="84.490" handcursor="0" height="384" popbackmode="0" hidepinned="0">
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="0.000" height="384" width="1824" fov="84.490" id="거실가로" clickmode="0" pan="1.200" tilt="-20.130" popbackmode="0" rotx="0.000">
         <source url="media/_patch_3-2.png"/>
       </image>
-      <image stretch="1.000" id="거실세로" tilt="-20.920" clickmode="0" rotx="0.000" width="1760" pan="283.100" roty="0.000" rotz="0.000" fov="82.490" handcursor="0" height="560" popbackmode="0" hidepinned="0">
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="0.000" height="560" width="1760" fov="82.490" id="거실세로" clickmode="0" pan="283.100" tilt="-20.920" popbackmode="0" rotx="0.000">
         <source url="media/_patch_4-2.png"/>
       </image>
-      <image stretch="1.000" id="큰창" tilt="-0.950" clickmode="0" rotx="0.000" width="1216" pan="283.760" roty="0.000" rotz="0.000" fov="62.490" handcursor="0" height="1216" popbackmode="0" hidepinned="0">
+      <image handcursor="0" hidepinned="0" stretch="1.000" roty="0.000" rotz="0.000" height="1216" width="1216" fov="62.490" id="큰창" clickmode="0" pan="283.760" tilt="-0.950" popbackmode="0" rotx="0.000">
         <source url="media/-2.png"/>
       </image>
     </media>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
+    <transition zoomafteroutfov="40" delay="none" zoomspeed="2" softedge="0" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="40" zoomin="0" zoomafterinfov="140" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" lockedwheel="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" zoomcentercursor="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertcontrol="1"/>
   </panorama>
-  <panorama id="node16">
-    <input levelbiashidpi="1.000" leveltilesize="510" width="2000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2000" overlap="1" levelingroll="0" levelbias="0.400">
+  <panorama id="node18">
+    <input levelbias="0.400" height="2000" levelingpitch="0" leveltilesize="510" width="2000" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0">
       <level preload="0" height="2000" width="2000" predecode="0"/>
       <level preload="0" height="1000" width="1000" predecode="0"/>
       <level preload="1" height="500" width="500" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="136.926" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
+      <start fov="108.174" pan="52.6225" tilt="-0.0387092" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360" scaletofit="1"/>
     </view>
-    <userdata nodeid="node16" description="" source="" heading="0" copyright="" tags="수치선" title="" author="" comment="" datetime="" info="" latitude="" longitude="" customnodeid=""/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" wordwrap="1" borderradius="1" textcolor="0x000000" borderalpha="1" enabled="1" height="20" textalpha="1" background="1" border="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot description="" id="Point01" skinid="ht_node" tilt="-3.16" title="" url="{node17}" target="" pan="-252.09"/>
-      <hotspot description="" id="냉장고치수" skinid="냉장고치수" tilt="-7.36" customimageheight="79" target="_blank" use3D="1" pan="-352.34" distance3D="564.876" title="" customimage="media/image-18.png" fov="8" customimagewidth="79" url=""/>
+    <userdata copyright="" nodeid="node18" datetime="" author="" source="" info="" tags="가구없음|가구온오프" latitude="" description="" customnodeid="" title="가구없음" heading="0" comment="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" textalpha="1" wordwrap="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" borderalpha="1" enabled="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
     </hotspots>
-    <media>
-      <image stretch="1.000" id="냉장고치수" tilt="-7.220" clickmode="0" rotx="0.000" width="1952" pan="0.610" roty="0.000" rotz="0.000" fov="88.610" handcursor="0" height="1952" popbackmode="0" hidepinned="0">
-        <source url="media/_patch_5-2.png"/>
-      </image>
-    </media>
-    <transition delay="none" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" softedge="0"/>
-    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertwheel="0" simulatemass="1" sensitivity="8" speedwheel="1" zoomcentercursor="1" contextvr="1" hideabout="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0"/>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" zoomspeed="2" softedge="0" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="40" zoomin="0" zoomafterinfov="140" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" lockedwheel="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" zoomcentercursor="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbias="0.400" height="2000" levelingpitch="0" leveltilesize="510" width="2000" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0">
+      <level preload="0" height="2000" width="2000" predecode="0"/>
+      <level preload="0" height="1000" width="1000" predecode="0"/>
+      <level preload="1" height="500" width="500" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="108.174" pan="53.5049" tilt="0.0255775" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" nodeid="node19" datetime="" author="" source="" info="" tags="가구온오프|가구있음" latitude="" description="" customnodeid="" title="가구있음" heading="0" comment="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" textalpha="1" wordwrap="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" borderalpha="1" enabled="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" zoomspeed="2" softedge="0" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="40" zoomin="0" zoomafterinfov="140" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" lockedwheel="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" zoomcentercursor="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertcontrol="1"/>
   </panorama>
   <masternode>
-    <userdata description="" tags="" title="" author="" comment="" copyright=""/>
+    <userdata copyright="" comment="" tags="" author="" description="" title=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
