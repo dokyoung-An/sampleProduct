@@ -19,13 +19,15 @@
       <label borderradius="1" textalpha="1" wordwrap="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" borderalpha="1" enabled="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
       <hotspot id="세탁기" skinid="세탁기" pan="-184.46" tilt="-24.16" target="_blank" url="" description="" title=""/>
-      <hotspot id="인덕션" skinid="인덕션" pan="-179.15" tilt="-12.86" target="_blank" url="" description="" title=""/>
+      <hotspot id="인덕션" skinid="인덕션" pan="-179.58" tilt="-13.08" target="_blank" url="" description="" title=""/>
       <hotspot id="에어컨" skinid="에어컨" pan="0.69" tilt="30.08" target="_blank" url="" description="" title=""/>
       <hotspot id="Point02" skinid="가스레인지" pan="-179.16" tilt="-8.98" target="_blank" url="" description="" title=""/>
       <hotspot id="수도" skinid="수도" pan="-205.13" tilt="-8.7" target="_blank" url="" description="" title=""/>
       <hotspot id="Point01" skinid="tv" pan="-288.29" tilt="-4.7" target="_blank" url="" description="" title=""/>
       <hotspot id="냉장고빌트인" skinid="냉장고빌트인" pan="-239.75" tilt="0.38" target="_blank" url="" description="" title=""/>
       <hotspot id="Point03" skinid="실외기실" pan="-331.72" tilt="3.35" target="_blank" url="" description="" title=""/>
+      <hotspot id="Point04" skinid="가스레인지-m" pan="-178.04" tilt="-7.78" target="_blank" url="" description="" title=""/>
+      <hotspot id="Point05" skinid="인덕션-m" pan="-178.29" tilt="-13.3" target="_blank" url="" description="" title=""/>
       <polyhotspot id="Poly01" target="_blank" url="https://www.unfiction.kr/" description="" title="">
         <polystring>-135.31/12.87|-135.18/3.64|-148.76/2.67|-148.77/11.82</polystring>
       </polyhotspot>
